@@ -1,8 +1,4 @@
----
-tags: cs, comp sci, computer science, todo
-languages: ruby
-resources: 1
----
+
 
 ## String Theory
 
